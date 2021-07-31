@@ -4,8 +4,8 @@
              {
    "SwapsFrom": "Blaze",
     "SwapsTo": "Renegade Raider",
-    "FromImage": "IYpZEl8.png",
-    "ToImage": "UEAIjO8.png",
+    "FromImage": "https://image.fnbr.co/outfit/5ef7deb7db1543fe00221123/icon.png",
+    "ToImage": "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
     "Type": "mesh",
     "ItemType": "Skin",
     "Asset": [
