@@ -6,8 +6,8 @@
     "SwapsTo": "Renegade Raider",
     "FromImage": "IYpZEl8.png",
     "ToImage": "UEAIjO8.png",
-    "Type": "mesh"
-    "ItemType": "Skin"
+    "Type": "mesh",
+    "ItemType": "Skin",
     "Asset": [
         {
             "Search": [
