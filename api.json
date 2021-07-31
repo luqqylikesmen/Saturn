@@ -1,0 +1,75 @@
+{
+  "Database": {
+       "Cosmetics":[
+             {
+   "SwapsFrom": "Blaze",
+    "SwapsTo": "Renegade Raider",
+    "FromImage": "IYpZEl8.png",
+    "ToImage": "UEAIjO8.png",
+    "Type": "mesh"
+    "ItemType": "Skin"
+    "Asset": [
+        {
+            "Search": [
+                ""
+            ],
+            "Replace": [
+                ""
+            ],
+            "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+            "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "\"CP_Athena_Body_Commando_F_RenegadeRaiderFire"
+            ],
+            "Replace": [
+                "\"CP_Athena_Body_Commando_F_RenegadeRaiderFir0
+            ],
+            "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+            "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                ""
+            ],
+            "Replace": [
+                ""
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s5-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "\"CP_Head_F_StreetFashionEclipse"
+            ],
+            "Replace": [
+                "\"CP_Head_F_StreetFashionEclips0"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair"
+            ],
+            "Replace": [
+                "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Galaxy/Materials/M_Med_Soldier_04_Celestial.M_Med_Soldier_04_Celestial"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
+        },
+        {
+            "Search": [
+                "\"CP_F_MED_FaceAcc_StreetFashionEclipse"
+            ],
+            "Replace": [
+                "\"CP_F_MED_FaceAcc_StreetFashionEclips0"
+            ],
+            "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
+            "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
+        }
+    ]
+}
+  
+}
