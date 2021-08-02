@@ -1,7 +1,6 @@
 {
-    "Database":{
-       "Cosmetics":[
-          {
+    "version": "0.1.0",
+    "items":
             "SwapsFrom": "Blaze",
             "SwapsTo": "Renegade Raider",
             "FromImage": "https://image.fnbr.co/outfit/5ef7deb7db1543fe00221123/icon.png",
@@ -136,9 +135,6 @@
                     ],
                     "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
                     "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
-                }
-            ]
-          }
-        ]
+                }",
+    "timestamp": 1616822875
 }
-       ]}}
