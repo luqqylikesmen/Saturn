@@ -32,6 +32,22 @@
              "assetpath2": "",
              "search2pak": "pakchunk10_s22-WindowsClient.ucas"
               
+          },
+          {
+            "name": "ruby shadows to rebirth harley",
+            "iconswap": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
+            "icon": "https://image.fnbr.co/outfit/5fd8a70c4fd78c73ea9b76b4/icon_192.png",
+            "type": "mesh",
+            "itemtype": "skin",
+             "search1": "",
+             "replace1": "",
+             "assetpath1": "",
+             "search1pak": "pakchunk10_s22-WindowsClient.ucas",
+             "search2": "",
+             "replace2": "",
+             "assetpath2": "",
+             "search2pak": "pakchunk10_s22-WindowsClient.ucas"
+              
           }
 
            
