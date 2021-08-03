@@ -1,143 +1,82 @@
 {
-    "items":[
-    {
-        
-            "SwapsFrom": "Blaze",
-            "SwapsTo": "Renegade Raider",
-            "FromImage": "https://image.fnbr.co/outfit/5ef7deb7db1543fe00221123/icon.png",
-            "ToImage": "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
-            "Type": "mesh",
-            "ItemType": "Skin",
+    "Database":{
+       "Cosmetics":[
+          {
+            "name": "Blaze to renegade raider",
+            "iconswap": "https://image.fnbr.co/outfit/5ef7deb7db1543fe00221123/icon.png",
+            "icon": "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
+            "type": "mesh",
+            "itemtype": "skin",
             "Asset": [
                 {
-                    "Search": [
+                    "search1": [
                         ""
                     ],
-                    "Replace": [
+                    "replace1": [
                         ""
                     ],
                     "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
                     "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
                 },
                 {
-                    "Search": [
-                        "\"CP_Athena_Body_Commando_F_RenegadeRaiderFire"
-                    ],
-                    "Replace": [
-                        "\"CP_Athena_Body_Commando_F_RenegadeRaiderFir0"
-                    ],
-                    "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
-                    "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
-                },
-                {
-                    "Search": [
+                    "search2": [
                         ""
                     ],
-                    "Replace": [
+                    "replace2": [
                         ""
                     ],
                     "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
                     "UcasFile": "pakchunk10_s5-WindowsClient.ucas"
                 },
                 {
-                    "Search": [
-                        "\"CP_Head_F_StreetFashionEclipse"
-                    ],
-                    "Replace": [
-                        "\"CP_Head_F_StreetFashionEclips0"
-                    ],
-                    "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
-                    "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
-                },
-                {
-                    "Search": [
+                    "search3": [
                         "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair"
                     ],
-                    "Replace": [
+                    "replace3": [
                         "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Galaxy/Materials/M_Med_Soldier_04_Celestial.M_Med_Soldier_04_Celestial"
                     ],
                     "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
                     "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
                 },
-                {
-                    "Search": [
-                        "\"CP_F_MED_FaceAcc_StreetFashionEclipse"
-                    ],
-                    "Replace": [
-                        "\"CP_F_MED_FaceAcc_StreetFashionEclips0"
-                    ],
-                    "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
-                    "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
-                },
-                {
-            "SwapsFrom": "Ruby Shadows",
-            "SwapsTo": "Dizzie",
-            "FromImage": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
-            "ToImage": "https://image.fnbr.co/outfit/60acbbdf0b40820a228d64ef/icon_192.png",
-            "Type": "mesh",
-            "ItemType": "Skin",
+            "name": "ruby shadows to dizzie",
+            "iconswap": "https://image.fnbr.co/outfit/5ffec109fbcb5fe86516dc19/icon_192.png",
+            "icon": "https://image.fnbr.co/outfit/60acbbdf0b40820a228d64ef/icon_192.png",
+            "type": "mesh",
+            "itemtype": "skin",
             "Asset": [
                 {
-                    "Search": [
+                    "search1": [
                         ""
                     ],
-                    "Replace": [
+                    "replace1": [
                         ""
                     ],
                     "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
                     "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
                 },
                 {
-                    "Search": [
-                        "\"CP_Athena_Body_Commando_F_RenegadeRaiderFire"
-                    ],
-                    "Replace": [
-                        "\"CP_Athena_Body_Commando_F_RenegadeRaiderFir0"
-                    ],
-                    "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
-                    "UcasFile": "pakchunk10_s4-WindowsClient.ucas"
-                },
-                {
-                    "Search": [
+                    "search2": [
                         ""
                     ],
-                    "Replace": [
+                    "replace2": [
                         ""
                     ],
                     "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
                     "UcasFile": "pakchunk10_s5-WindowsClient.ucas"
                 },
                 {
-                    "Search": [
-                        "\"CP_Head_F_StreetFashionEclipse"
-                    ],
-                    "Replace": [
-                        "\"CP_Head_F_StreetFashionEclips0"
-                    ],
-                    "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
-                    "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
-                },
-                {
-                    "Search": [
+                    "search3": [
                         "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair"
                     ],
-                    "Replace": [
+                    "replace3": [
                         "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Galaxy/Materials/M_Med_Soldier_04_Celestial.M_Med_Soldier_04_Celestial"
-                    ],
-                    "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
-                    "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
-                },
-                {
-                    "Search": [
-                        "\"CP_F_MED_FaceAcc_StreetFashionEclipse"
-                    ],
-                    "Replace": [
-                        "\"CP_F_MED_FaceAcc_StreetFashionEclips0"
                     ],
                     "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
                     "UcasFile": "pakchunk10_s22-WindowsClient.ucas"
                 }
+            
             ]
           }
         ]
-    }]}
+}
+       ]}}
